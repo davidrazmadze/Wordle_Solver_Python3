@@ -1,16 +1,22 @@
 # Wordle Solver - Python3
 
+## Commands
+
 To run: `python3 wordle_solver.py`
+
 To stop: `control + c`
+
+<hr />
 
 ## How to use
 1. Make your first guess in wordle
 2. Provide each letter, color, and position when asked to do so in the program
-  y = yellow
+
+    y = yellow
   
-  g = green
+    g = green
   
-  b = black
+    b = black
   
 3. Make the next guess using the new possible word list
 4. Repeat until you find the word of the day!
