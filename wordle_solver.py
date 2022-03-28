@@ -46,7 +46,7 @@ while letter != '':
         if color == 'g':
             if word[position] == letter:
                 word_list.append(word)
-        # White
+        # Black
         elif color == 'b':
             if letter not in word:
                 word_list.append(word)
