@@ -7,8 +7,11 @@ To stop: `control + c`
 1. Make your first guess in wordle
 2. Provide each letter, color, and position when asked to do so in the program
   y = yellow
+  
   g = green
+  
   b = black
+  
 3. Make the next guess using the new possible word list
 4. Repeat until you find the word of the day!
 
